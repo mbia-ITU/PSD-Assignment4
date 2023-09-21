@@ -108,19 +108,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mikke\\.nuget\\packages\\": {}
+    "C:\\Users\\emilf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikke\\iCloudDrive\\ITU\\Programs as data\\PSD-Assignment4\\Fun\\Assignment4.fsproj",
+      "projectUniqueName": "c:\\Users\\emilf\\Documents\\swu5th\\ProAsData\\PSD-Assignment4\\Fun\\Assignment4.fsproj",
       "projectName": "Assignment4",
-      "projectPath": "C:\\Users\\mikke\\iCloudDrive\\ITU\\Programs as data\\PSD-Assignment4\\Fun\\Assignment4.fsproj",
-      "packagesPath": "C:\\Users\\mikke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikke\\iCloudDrive\\ITU\\Programs as data\\PSD-Assignment4\\Fun\\obj\\",
+      "projectPath": "c:\\Users\\emilf\\Documents\\swu5th\\ProAsData\\PSD-Assignment4\\Fun\\Assignment4.fsproj",
+      "packagesPath": "C:\\Users\\emilf\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\emilf\\Documents\\swu5th\\ProAsData\\PSD-Assignment4\\Fun\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mikke\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\emilf\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
