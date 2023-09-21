@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/FCnE663VTAKdEThACq/YqHrK+XjULCgQ/J0Fare7uBpLrqqo9z/JLJRih9R2VU2w0YDcVKor2kbdpGkj8h87Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikke\\iCloudDrive\\ITU\\Programs as data\\PSD-Assignment4\\Fun\\Assignment4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikke\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
