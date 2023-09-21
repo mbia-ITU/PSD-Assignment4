@@ -1,0 +1,4 @@
+let sum n = if n = 0 then 0 else n + sum (n - 1) in sum 1000 end
+let power n = if n = 1 then 3 else 3 * power (n - 1) in power 8 end
+let power n = if n = 0 then 1 else 3 * power (n - 1) in let sum m = if m = 0 then 1 else (power m) + sum (m - 1) in sum  11 end end
+let powerEight n = n * n * n * n * n * n * n * n in let sum m = if m = 1 then 1 else (powerEight m) + sum (m - 1) in sum 10 end end
