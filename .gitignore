@@ -1,4 +1,11 @@
 .vscode/*
 .vscode
+*.dll
 
-.fake
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+
