@@ -1,4 +1,0 @@
-C:\Users\mikke\iCloudDrive\ITU\Programs as data\PSD-Assignment4\Fun\obj\Debug\net7.0\Assignment4.fsproj.AssemblyReference.cache
-C:\Users\mikke\iCloudDrive\ITU\Programs as data\PSD-Assignment4\Fun\obj\Debug\net7.0\Assignment4.AssemblyInfoInputs.cache
-C:\Users\mikke\iCloudDrive\ITU\Programs as data\PSD-Assignment4\Fun\obj\Debug\net7.0\Assignment4.AssemblyInfo.fs
-C:\Users\mikke\iCloudDrive\ITU\Programs as data\PSD-Assignment4\Fun\obj\Debug\net7.0\Assignment4.fsproj.CoreCompileInputs.cache
