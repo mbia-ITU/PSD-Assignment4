@@ -9,3 +9,7 @@ bin
 obj
 packages
 
+FunLex.fs
+FunPar.fs
+*Lex.fs
+*Par.fs
