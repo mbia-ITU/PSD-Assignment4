@@ -1,3 +1,5 @@
+let prod a b = a * b 
+    in prod 1 2 end;;
 ( 4 = 4 ) || (false);;
 ( 4 = 4 ) && false || true;;
 let sum n = if n = 0 then 0 else n + sum (n - 1) 
@@ -10,5 +12,3 @@ let power n = if n = 0 then 1 else 3 * power (n - 1)
 let powerEight n = n * n * n * n * n * n * n * n 
     in let sum m = if m = 1 then 1 else (powerEight m) + sum (m - 1) 
         in sum 10 end end;;
-let prod a b = a * b 
-    in prod 1 2 end;;
